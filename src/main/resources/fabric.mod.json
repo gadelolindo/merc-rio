@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "mercurio",
+  "version": "${version}",
+  "name": "Mercúrio",
+  "description": "Uma aba no criativo com itens lendários inspirados em mobs, cada um com poder, textura e lore próprios.",
+  "authors": [],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.mercurio.Mercurio"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

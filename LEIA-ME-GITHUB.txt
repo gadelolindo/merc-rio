@@ -1,0 +1,5 @@
+1. Crie um repositorio novo no GitHub (botao "New", nome: mercurio).
+2. Clique em "uploading an existing file" e arraste TUDO desta pasta (inclusive a pasta .github e a pasta src).
+3. Clique em "Commit changes".
+4. Abra a aba "Actions", espere ficar verde, clique na execucao e baixe "mercurio-mod" no final da pagina.
+5. Extraia o zip baixado: dentro tem o mercurio-1.0.0.jar. Esse e o mod.
